@@ -1,5 +1,5 @@
 # Hi, i am CPU Governor
-	i am C and C++ developer interested in Graphics and Systems programing. at the moment i program in C,C++,Dart,Python and Shell. 
+i am C and C++ developer interested in Graphics and Systems programing. at the moment i program in C,C++,Dart,Python and Shell. 
 ### Stacks
 * Graphics Programming (OpenGL, Glfw, SDL,)
 * C/C++
@@ -15,3 +15,7 @@
 
 ### Competencies
 Make || Blender || Linux
+
+- B.sc in Computer Science (2022 - present)
+
+if you are interested you can Download my Resume.pdf
