@@ -1,5 +1,5 @@
 # Hi, i am GPU Governor
-i am a C and C++ developer interested in Graphics and Systems programing. at the moment i program in C,C++ and Python. NZEOGWU OKUCHUKWU is my birth given name (but you can call me CPU or GPU Governor).
+i am a C and C++ developer interested in Graphics and Systems programing. at the moment i program in C,C++ and Python. NZEOGWU OKUCHUKWU is my birth given name (but you can call me GPU Governor).
 ### Stacks
 * Graphics Programming (OpenGL, Glfw, SDL)
 * C/C++ (Ncurses, imgui)
