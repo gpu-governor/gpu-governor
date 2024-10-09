@@ -44,3 +44,13 @@ body{
   align-items: center;
   padding: 0 10%;
 }
+
+
+
+.img {
+  display: block;          /* Ensures that the image is treated as a block element */
+  margin: 0 auto;          /* Centers the image */
+  border-radius: 8px;      /* Adds slightly rounded corners */
+  width: 600px;     /* Image will take 100% of its container’s width */
+  height: auto;    /* The height will automatically adjust to maintain the aspect ratio */
+}
