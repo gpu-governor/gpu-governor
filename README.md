@@ -1,9 +1,7 @@
 # Hi, i am GPU Governor
-i am a C and C++ developer interested in Computer Graphics and Systems programing. at the moment i program in C,C++,C# and Python. 
+i am a C and C++ developer interested in Computer Graphics and Systems programing. at the moment i program in C, C++ ,C#, Python and a little bit of mips and 6502 assembly Language. 
 
 - B.sc in Computer Science (2022 - present)
-
-if you are interested you can Download my Resume.pdf
 
 ## Contact Me
 
